@@ -1,0 +1,2 @@
+news_url,image_url,title,text,source_name,date,topics,sentiment,type,tickers
+https://www.cnn.com/2020/08/22/tech/facebook-ai-memory-research/index.html,https://cdn.snapi.dev/images/v1/2/w/2wede2123.jpg,Facebook wants to help build AI that can remember everything for you,"On Friday, Facebook announced new AI research that could help pave the way for a significant change in how artificial intelligence — and some devices that incorporate this technology — functions in our daily lives.",CNN Business,"Sat, 22 Aug 2020 09:41:21 -0400",,Neutral,Article,FB

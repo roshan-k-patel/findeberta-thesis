@@ -1,0 +1,2 @@
+news_url,image_url,title,text,source_name,date,topics,sentiment,type,tickers
+https://www.theguardian.com/world/2020/apr/10/tech-giants-struggle-stem-infodemic-false-coronavirus-claims,https://cdn.snapi.dev/images/v1/6/4/6454jpgwidth460quality85autoformatfitmaxs86b34a19ad7b2bba4400d6d4ef9ff32a.jpg,Tech giants struggle to stem 'infodemic' of false coronavirus claims,"Critics say efforts are too little, too late as research reveals vast majority of false claims appear online",The Guardian,"Fri, 10 Apr 2020 04:46:41 -0400",,Negative,Article,"FB,GOOG,GOOGL,TWTR"

@@ -1,0 +1,2 @@
+news_url,image_url,title,text,source_name,date,topics,sentiment,type,tickers
+https://www.cnet.com/news/biden-wins-heres-what-it-means-for-tech/,https://cdn.snapi.dev/images/v1/b/i/biden-gettyimages-1229462073.jpg,Biden wins: Here's what it means for tech,The 2020 presidential race is over. Here's what it will mean for the biggest tech issues of the day.,CNET,"Sat, 07 Nov 2020 11:44:00 -0500",Political,Neutral,Article,"AAPL,AMZN,FB,GOOG,GOOGL,MSFT,TWTR"
