@@ -1,0 +1,2 @@
+news_url,image_url,title,text,source_name,date,topics,sentiment,type,tickers
+https://www.cnbc.com/2019/07/27/snap-twitter-and-amazon-are-cutting-into-google-facebook-duopoly.html,https://cdn.snapi.dev/images/v1/1/0-3/100ss8-2.jpg,"Earnings this week show Snap, Amazon and Twitter cutting into the Google-Facebook ad duopoly","Google and Facebook dominate global digital ad dollars, but the latest spate of earnings reports showed that smaller players are gaining traction.",CNBC,"Sat, 27 Jul 2019 08:27:00 -0400",earnings,Neutral,Article,"AMZN,FB,GOOG,GOOGL,SNAP,TWTR"
