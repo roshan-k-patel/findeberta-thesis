@@ -1,2 +1,0 @@
-news_url,image_url,title,text,source_name,date,topics,sentiment,type,tickers
-https://www.cnn.com/2020/07/12/tech/facebook-content-moderation-controversy/index.html,https://cdn.snapi.dev/images/v1/r/0/zuckerbergjpgquality90stripall.jpg,Facebook's future keeps getting murkier,"For nearly two months, Facebook has been scrambling to get a handle on a wave of criticism over its policies on moderating content, particularly hateful speech and misinformation that spreads on its platforms.",CNN Business,"Sun, 12 Jul 2020 19:11:05 -0400",,Negative,Article,FB

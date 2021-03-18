@@ -1,2 +1,0 @@
-news_url,image_url,title,text,source_name,date,topics,sentiment,type,tickers
-https://www.cnbc.com/2019/04/14/facebook-instagram-whatsapp-down-across-us-europe.html,https://cdn.snapi.dev/images/v1/1/0/105840851-1554812543679gettyimages-1058608408530x298-2.jpeg,"Facebook, Instagram, WhatsApp down across US, Europe","All three social media platforms, including Facebook Messenger, were not loading as of early Sunday morning.",CNBC,"Sun, 14 Apr 2019 09:01:00 -0400",,Negative,Article,FB

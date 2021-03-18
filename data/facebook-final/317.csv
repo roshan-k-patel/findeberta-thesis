@@ -1,2 +1,0 @@
-news_url,image_url,title,text,source_name,date,topics,sentiment,type,tickers
-https://www.cnbc.com/2020/02/07/boeing-wells-fargo-among-stocks-put-in-penalty-box-by-investors.html,https://cdn.snapi.dev/images/v1/5/t/5tgf321111-1.jpg,"When investors lose trust, they can put stocks in the 'penalty box'","When investors lose faith in management teams after debacles or scandals, they may put stocks of these companies in the """"penalty box."""" Boeing and Wells Fargo are recent examples.",CNBC,"Sun, 09 Feb 2020 10:56:01 -0500",,Negative,Article,"BA,EFX,FB,WFC"

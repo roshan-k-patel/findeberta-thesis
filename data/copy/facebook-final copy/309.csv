@@ -1,3 +1,0 @@
-news_url,image_url,title,text,source_name,date,topics,sentiment,type,tickers
-https://www.fool.com/investing/2020/02/01/3-big-stocks-3-big-reports.aspx,https://cdn.snapi.dev/images/v1/7/f/podc8.jpg,"3 Big Stocks, 3 Big Reports","Microsoft, Facebook, and Tesla all came out with some impressive reports today.",The Motley Fool,"Sat, 01 Feb 2020 17:00:00 -0500",podcast,Neutral,Article,"FB,MSFT,TSLA"
-https://www.fool.com/investing/2020/02/01/why-im-buying-more-facebook-after-final-earnings.aspx,https://cdn.snapi.dev/images/v1/x/a/74.jpg,Why I’m Buying More Facebook After the Final Earnings Report of 2019,Don’t sweat the big operating expense increase.,The Motley Fool,"Sat, 01 Feb 2020 10:09:00 -0500",earnings,Positive,Article,FB
