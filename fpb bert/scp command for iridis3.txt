@@ -1,0 +1,1 @@
+scp Sentences_75Agree.txt rp10g17@iridis5_c.soton.ac.uk:/lyceum/rp10g17/Sentences_75Agree.txt 
